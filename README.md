@@ -20,3 +20,6 @@ programme and similarly
 5. Test code to show the lists of students: a) who passed with distinction, b) passed and c) failed."
 
 I completed this project alone right after learning to code for the first time. 
+
+
+The Final Exam is the code that Annaya and I completed and the parameters are outlined in the notebook. 
