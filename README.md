@@ -22,4 +22,4 @@ programme and similarly
 I completed this project alone right after learning to code for the first time. 
 
 
-The Final Exam is the code that Annaya and I completed and the parameters are outlined in the notebook. 
+The Final Exam is the code that [@Annayathamma](https://github.com/Annayathamma) and I completed and the parameters are outlined in the notebook. 
